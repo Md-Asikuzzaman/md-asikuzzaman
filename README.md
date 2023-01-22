@@ -24,9 +24,9 @@
 
 - 💬 Ask me about **React, Next, Tailwind**
 
-- 📧 Send me an email **mdasikuzzaman.en@gmail.com**
+- 📧 Email:  **mdasikuzzaman.en@gmail.com**
 
-- ☎️ Phone call **+8801995-580669**
+- 📞 WhatsApp:  **+8801995-580669**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
