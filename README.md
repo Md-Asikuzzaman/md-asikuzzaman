@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-asikuzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="md-asikuzzaman" /> </p>
 
-- 🔭 I’m currently working on **Admin Dashboard Design**
+- 🔭 I’m currently working on **Next.JS Application**
 
 - 🌱 I’m currently learning **MERN Stack, React Native**
 
