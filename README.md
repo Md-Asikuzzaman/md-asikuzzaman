@@ -33,7 +33,9 @@
 
 
 
-<div width="100%" align="center"><div align="center"><img width="45%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Asikuzzaman&theme=radical&hide_border=false" alt=""> <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt=""> &nbsp;</div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt=""></div>
+<div width="100%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="">
+</div>
 
 
 
