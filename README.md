@@ -26,11 +26,11 @@
 <img src="https://komarev.com/ghpvc/?username=md-asikuzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="visitor">
 <p/>
 
-<div>
+
 * Email <a href="mailto:mdasikuzzaman.en@gmail.com" target="_blank">mdasikuzzaman.en@gmail.com</a>
 * Website <a href="https://devasik,netlify.app" target="_blank">www.devasik.netlify.app</a>
 * WhatsApp <a href="tel:+8801995-580669" target="_blank">+8801995-580669</a>
-</div>
+
 
 
 <div width="100%" align="center"><div align="center"><img width="45%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Asikuzzaman&theme=radical&hide_border=false" alt=""> <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt=""> &nbsp;</div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt=""></div>
