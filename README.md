@@ -27,9 +27,9 @@
 <p/>
 
 <div>
-<p>Email <a href="mailto:mdasikuzzaman.en@gmail.com">mdasikuzzaman.en@gmail.com</a> </p>
-<p>Website <a href="https://devasik,netlify.app">www.devasik.netlify.app</a> </p>
-<p>WhatsApp <a href="tel:+8801995-580669">+8801995-580669</a> </p>
+* Email <a href="mailto:mdasikuzzaman.en@gmail.com" target="_blank">mdasikuzzaman.en@gmail.com</a>
+* Website <a href="https://devasik,netlify.app" target="_blank">www.devasik.netlify.app</a>
+* WhatsApp <a href="tel:+8801995-580669" target="_blank">+8801995-580669</a>
 </div>
 
 
