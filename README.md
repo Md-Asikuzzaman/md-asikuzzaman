@@ -34,7 +34,7 @@
 
 
 <div width="100%" align="center">
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="">
 </div>
 
 
