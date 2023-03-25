@@ -5,6 +5,9 @@
 
 ### My name is Md Asikuzzaman. I'm a React developer and I absolutely love my passion. I am enjoying learn new things. You'll find me hardworking, fast learning, and fiercely ambitious. My expertise on MERN stack development such as (Mongodb, Express, React & Node). I love challenges and i know -there is always a solution. At my age, my unwavering focus is to be recognised as on of the best coders in tech. I love my clients, i enjoy my project and respect my teammates
 
+* 💻 Lead programming languages: JavaScript, TypeScript.
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Asikuzzaman&theme=radical&hide_border=false)<br/>
