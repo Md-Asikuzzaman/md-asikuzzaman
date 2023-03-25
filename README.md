@@ -8,9 +8,10 @@
 * 💻 Lead programming languages: JavaScript, TypeScript.
 
 <h1 align="center" dir="auto">Connect with me</h1>
-
+<p align="center" dir="auto">
+<img width="45%" height="180px" src="https://komarev.com/ghpvc/?username=md-asikuzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="visitor">
+<p/>
 <div width="100%" align="center"><div align="center"><img width="45%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Asikuzzaman&theme=radical&hide_border=false" alt=""> <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt=""> &nbsp;</div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt=""></div>
 
-[![](https://visitcount.itsvg.in/api?id=Md-Asikuzzaman&icon=5&color=3)](https://visitcount.itsvg.in)
 
 
