@@ -16,11 +16,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-asikuzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="md-asikuzzaman" /> </p>
 
-- 🔭 I’m currently working on **Next.JS Application**
+- 💪 I’m currently working on **Next.JS Application**
 
-- 🌱 I’m currently learning **MERN Stack, React Native**
+- 📗 I’m currently learning **MERN Stack, React Native**
 
-- 👯 I’m looking to collaborate on **Team Work**
+- 🤝 I’m looking to collaborate on **Team Work**
 
 - 💬 Ask me about **React, Next, Tailwind**
 
