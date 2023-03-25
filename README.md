@@ -9,7 +9,7 @@
 
 <h1 align="center" dir="auto">Connect with me</h1>
 
-<div width="100%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt=""> &nbsp;<div align="center"><img width="50%" height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Asikuzzaman&theme=radical&hide_border=false" alt=""> <img width="50%" height="100px" src="https://github-readme-stats.vercel.app/api?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt=""></div></div>
+<div width="100%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt=""> &nbsp;<div align="center"><img width="45%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Asikuzzaman&theme=radical&hide_border=false" alt=""> <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt=""></div></div>
 
 [![](https://visitcount.itsvg.in/api?id=Md-Asikuzzaman&icon=5&color=3)](https://visitcount.itsvg.in)
 
