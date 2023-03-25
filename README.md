@@ -1,8 +1,6 @@
 
 <h1 align="center" dir="auto">Md Asikuzzaman</h1>
 
-
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dfdfgdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dfgdfgdfgdf) 
 
 #### Things i code with:
