@@ -1,5 +1,5 @@
-# 💫 About Me:
-Next js
+
+<h1 align="center" dir="auto">Md Asikuzzaman</h1>
 
 
 ## 🌐 Socials:
