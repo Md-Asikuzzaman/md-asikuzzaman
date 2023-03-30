@@ -22,13 +22,13 @@
   </a>
 </div>
 
-<p align="center" dir="auto">
+<!-- <p align="center" dir="auto">
 <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=md-asikuzzaman&show_icons=true&locale=en&layout=compact"
     alt="md-asikuzzaman"
   />
-<p/>
+<p/> -->
 
 
 * Email <a href="mailto:mdasikuzzaman.en@gmail.com" target="_blank">mdasikuzzaman.en@gmail.com</a>
@@ -38,7 +38,11 @@
 
 
 <div width="100%" align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Asikuzzaman&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="">
+<img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=md-asikuzzaman&show_icons=true&locale=en&layout=compact"
+    alt="md-asikuzzaman"
+  />
 </div>
 
 
