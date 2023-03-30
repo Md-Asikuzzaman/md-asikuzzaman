@@ -39,7 +39,6 @@
 
 <div width="100%" align="center">
 <img
-    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=md-asikuzzaman&show_icons=true&locale=en&layout=compact"
     alt="md-asikuzzaman"
   />
