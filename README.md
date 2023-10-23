@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BINOD-XD/BINOD-XD/main/header_.png"/>
 
-<h3> I'm an accomplished Next.js developer with a strong proficiency in Prisma, Zod, and Tailwind CSS. My expertise lies in crafting high-performance, server-rendered web applications using Next.js while leveraging Prisma for efficient database interactions and ensuring data validation with Zod. Tailwind CSS is my go-to for creating sleek and responsive user interfaces. I'm passionate about building cutting-edge web solutions and staying at the forefront of web development trends. </h3>
+### I'm a proficient Next.js developer with a comprehensive skill set that encompasses Prisma, Zod, Tailwind CSS, and MongoDB. With a strong background in web development, I specialize in creating high-performance, server-rendered web applications that excel in both functionality and aesthetics. My expertise in Prisma and MongoDB allows for efficient database management, while Zod ensures data validation and security. When it comes to crafting user-friendly and visually appealing interfaces, I turn to Tailwind CSS.
 
 ### Quote
 * 💻 Lead programming languages: JavaScript, TypeScript.
