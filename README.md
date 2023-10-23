@@ -9,7 +9,7 @@
 * 📂 Follow me for Open-source Tips and projects.
 
 ### Technology
-* Rectjs, Nextjs, Tailwind, Bootstrap, Sass, jQuery, Prisma, Zod, AWS-EC2, Vercel
+* Reactjs, Nextjs, Tailwind, Bootstrap, Sass, jQuery, Prisma, Zod, AWS-EC2, Vercel
 
 ### Database
 * MongoDB
