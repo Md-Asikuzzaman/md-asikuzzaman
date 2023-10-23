@@ -19,7 +19,7 @@
 
 <div width="100%" align="center">
 <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=md-asikuzzaman&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=md-asikuzzaman&show_icons=true&locale=en&layout=compact&show_icons=true&count_private=true&theme=react&bg_color=0D1117"
     alt="md-asikuzzaman"
   />
 </div>
