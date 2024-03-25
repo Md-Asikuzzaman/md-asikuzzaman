@@ -9,12 +9,12 @@
 * 📂 Follow me for Open-source Tips and projects.
 
 ### Technology
-* Reactjs, Nextjs, Tailwind, Bootstrap, Sass, jQuery, Prisma, Zod, AWS-EC2, Docker, Vercel
+* 💎 Reactjs, Nextjs, Nodejs, Tailwind, Bootstrap, Sass, jQuery, Prisma, Zod, AWS-EC2, Docker, Vercel
 
 ### Database
-* MongoDB
-* MySQL
-* Postgresql
+* 🍃 MongoDB
+* 🐬 MySQL
+* 🐘 Postgresql
 
 
 <div width="100%" align="center">
