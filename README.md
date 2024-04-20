@@ -20,7 +20,7 @@ I'm a proficient Next.js developer with a comprehensive skill set that encompass
 - 🛠️ React-Query, Zustand, Redux.
 
 ### Backend
-- ⚙ Node.js, Prisma, Zod, AWS EC2, Docker.
+- ⚙ Node.js, Prisma, Next-Auth, Zod, AWS EC2, Docker.
 
 ### Deployment
 - 🚀 Vercel, Netlify, cPanel.
