@@ -14,7 +14,7 @@ I'm a proficient Next.js developer with a comprehensive skill set that encompass
 ## My Tech Stack
 
 ### Frontend
-- 💎 React.js, Next.js, Tailwind CSS, Bootstrap, Sass, jQuery.
+- 💎 React.js, Next.js, Tailwind CSS, Bootstrap, Sass, jQuery, Axios, React-hook-form.
 
 ### State Management
 - 🛠️ React-Query, Zustand, Redux.
